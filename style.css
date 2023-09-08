@@ -1,0 +1,7 @@
+.card {width:49%;margin-left: 6px;}
+.card-header i {float:right;}
+.fa-trash, .fa-pencil-alt {cursor: pointer;}
+.hidden {display:none}
+.swatch {width:20px; height:20px; float:left; margin-right:10px; border-radius: 50%; cursor: pointer; }
+.swatch:hover, .active  {border: 3px solid rgb(247, 189, 189)}
+
